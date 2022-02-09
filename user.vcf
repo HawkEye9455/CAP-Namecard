@@ -2,14 +2,14 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Holloway;William;;;
-FN: Will Holloway, MBA
-ORG:Clyde CISD;
-TITLE:Director of Emergency Management, Business & Marketing Teacher, Civil Air Patrol Sponsor, eSports Coach
-EMAIL;type=INTERNET;type=WORK;type=pref:wholloway@clydeisd.org
-TEL;type=WORK;type=VOICE:+1 (325)893-2161
+FN: MSgt Will Holloway
+ORG:Civil Air Patrol;
+TITLE:Internal Aerospace Education Officer, Texas Wing // Squadron NCO, Abilene Composite Squadron;
+EMAIL;type=INTERNET;type=WORK;type=pref:wholloway@abilenecap.org
 TEL;type=Work;type=CELL:+1 (325)518-1620
-item1.ADR;type=WORK;type=pref:;;500 N. Hays Road;Clyde;TX;79510;USA
+NOTE: Follow us on social media @AbileneCAP.  Meetings are Tuesday's 6:30-8:30 pm.  Talk to me about STEM Kits.
+item1.ADR;type=WORK;type=pref:;;4400 Buffalo Gap Rd, Suite 0525;Abilene;TX;79606;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:clydeisd.org
+item2.URL;type=pref:abilene.cap.gov
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
