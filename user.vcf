@@ -4,16 +4,14 @@ PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Holloway;William;;;
 FN: MSgt Will Holloway
 ORG:Civil Air Patrol;
-TITLE:Internal Aerospace Education Officer, Texas Wing // Squadron NCO, Abilene Composite Squadron;
+TITLE:Assitant Marketing and Communications Officer, Texas Wing // Internal Aerospace Education Officer, Texas Wing // Squadron NCO, Abilene Composite Squadron;
 EMAIL;type=INTERNET;type=WORK;type=pref:wholloway@abilenecap.org
 TEL;type=Work;type=CELL:+1 (325)518-1620
 NOTE: Follow us on social media @AbileneCAP @TxWgCAP.  Meetings are Tuesday's 6:30-8:30 pm.  Talk to me about STEM Kits.
 item1.ADR;type=WORK;type=pref:;;4400 Buffalo Gap Rd, Suite 0525;Abilene;TX;79606;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:abilene.cap.gov
+item2.URL;type=pref:txwg.CAP.gov
 item2.X-ABLabel:_$!<HomePage>!$_
-socialProfile;type=facebook:https://www.facebook.com/txwgCAP
-socialProfile;type=instagram:https://www.instagram.com/txwgCAP
-socialProfile;type=facebook:https://www.facebook.com/AbileneCAP
-socialProfile;type=instagram:https://www.instagram.com/AbileneCAP
+item3.URL;type=pref:abilene.CAP.gov
+item3.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
